@@ -8,3 +8,13 @@
   /* 标准的语法 */
   background: linear-gradient(to right, red, blue);
 }
+
+
+#page-header{
+	/* 背景图像的地址（url括号里）  */
+	background: url(/img/yasuo.jpg);
+	/* 背景图像不重复 */
+	background-repeat: no-repeat;
+	/* 背景图像大小 */
+	background-size: cover;
+}
