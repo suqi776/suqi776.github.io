@@ -20,7 +20,7 @@
 
 /* 页脚footer */
 #footer {
-    background: rgba(255,255,255,.7);
+    background: rgba(255,255,255,0);
     color: #000;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
