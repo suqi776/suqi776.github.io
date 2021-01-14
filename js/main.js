@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
+	
   let blogNameWidth = document.getElementById('site-name').offsetWidth
   const $menusEle = document.querySelector('#menus .menus_items')
   let menusWidth = $menusEle && $menusEle.offsetWidth
@@ -835,3 +836,4 @@ document.addEventListener('DOMContentLoaded', function () {
   refreshFn()
   unRefreshFn()
 })
+
