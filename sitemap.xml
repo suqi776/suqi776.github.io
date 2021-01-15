@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://suqi.me/2020/10/20/hello-world/</loc>
+    
+    <lastmod>2021-01-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://suqi.me/photo/index.html</loc>
     
     <lastmod>2021-01-15</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://suqi.me/about/index.html</loc>
-    
-    <lastmod>2021-01-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://suqi.me/2020/10/20/hello-world/</loc>
     
     <lastmod>2021-01-15</lastmod>
     
