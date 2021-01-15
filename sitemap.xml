@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://suqi.me/2021/01/15/test03/</loc>
+    
+    <lastmod>2021-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://suqi.me/2021/01/13/di/</loc>
+    
+    <lastmod>2021-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://suqi.me/2021/01/15/test02/</loc>
+    
+    <lastmod>2021-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://suqi.me/2021/01/15/test01/</loc>
+    
+    <lastmod>2021-01-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://suqi.me/2020/10/20/hello-world/</loc>
     
     <lastmod>2021-01-15</lastmod>
@@ -10,13 +38,6 @@
   
   <url>
     <loc>http://suqi.me/photo/index.html</loc>
-    
-    <lastmod>2021-01-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://suqi.me/2021/01/13/di/</loc>
     
     <lastmod>2021-01-15</lastmod>
     
