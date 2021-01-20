@@ -3186,9 +3186,12 @@ li.categoryBar-list-item:nth-child(6) {
   background: url('https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@v3.3.3_2/img/cover6.webp');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '微服务' !important;
+  content: 'hexo' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
+  content: '微服务' !important;
+}
+li.categoryBar-list-item:nth-child(3)>span::after {
   content: '测试' !important;
 }
 li.categoryBar-list-item {
