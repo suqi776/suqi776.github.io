@@ -88,7 +88,7 @@
     <link href="http://suqi.me/2021/01/15/test03/"/>
     <id>http://suqi.me/2021/01/15/test03/</id>
     <published>2021-01-15T02:20:00.000Z</published>
-    <updated>2021-01-15T09:02:06.995Z</updated>
+    <updated>2021-01-20T07:52:12.561Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Font-Awesome"><a href="#Font-Awesome" class="headerlink" title="Font Awesome"></a>Font Awesome</h1><h2 id="Font-Awesome-1"><a href="#Font-Awesome-1" class="headerlink" title="Font Awesome"></a><a href="https://www.thinkcmf.com/font_awesome.html">Font Awesome</a></h2><details ><summary> 从小到大 </summary>              <div class='content'>              <p><i class="fa fa-camera-retro fa-lg"></i> fa-lg<br><i class="fa fa-camera-retro fa-2x"></i> fa-2x<br><i class="fa fa-camera-retro fa-3x"></i> fa-3x<br><i class="fa fa-camera-retro fa-4x"></i> fa-4x<br><i class="fa fa-camera-retro fa-5x"></i> fa-5x</p>              </div>            </details><p><i class="fa fa-snowflake fa-2x"></i><i class="fa fa-snowflake fa-2x"></i><br><i class="fa fa-snowflake fa-2x"></i></p><h1 id="iconfont"><a href="#iconfont" class="headerlink" title="iconfont"></a>iconfont</h1><h2 id="iconfont-1"><a href="#iconfont-1" class="headerlink" title="iconfont"></a><a href="https://www.iconfont.cn/">iconfont</a></h2><details ><summary> 使用方法 </summary>              <div class='content'>              <h2 id="iconfont"><a href="#iconfont" class="headerlink" title="iconfont"></a><a href="https://akilar.top/posts/d2ebecef//">iconfont</a></h2>              </div>            </details>]]></content>
     
@@ -100,7 +100,7 @@
     
     
     
-    <category term="测试" scheme="http://suqi.me/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="hexo" scheme="http://suqi.me/categories/hexo/"/>
     
     
   </entry>
