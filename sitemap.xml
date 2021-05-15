@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://suqi.me/photo/index.html</loc>
+    
+    <lastmod>2021-05-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://suqi.me/2021/03/11/Editor/</loc>
     
     <lastmod>2021-03-11</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://suqi.me/2021/01/20/springcloud01/</loc>
     
     <lastmod>2021-03-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://suqi.me/photo/index.html</loc>
-    
-    <lastmod>2021-01-25</lastmod>
     
   </url>
   
@@ -102,7 +102,7 @@
 
   <url>
     <loc>http://suqi.me/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,35 +110,35 @@
   
   <url>
     <loc>http://suqi.me/tags/%E6%A0%87%E7%AD%BE1/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/tags/%E6%A0%87%E7%AD%BE2/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/tags/Spring/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/tags/SpringCloud/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/tags/SpringCloudAlibaba/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,21 +147,21 @@
   
   <url>
     <loc>http://suqi.me/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://suqi.me/categories/hexo/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
